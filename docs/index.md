@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Oferta Académica Institucional
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido al portal oficial de consulta de la **Universidad Técnica Particular de Loja**. Este sitio ha sido diseñado para proporcionar una navegación clara y estructurada de nuestra oferta académica vigente.
 
-## Commands
+## Organización por Facultades
+Seleccione una facultad para visualizar las carreras y los títulos que se otorgan:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [Facultad de Ingenierías y Arquitectura](ingenierias.md)
+* [Facultad de Ciencias Sociales, Educación y Humanidades](sociales.md)
+* [Facultad de Ciencias Económicas y Empresariales](administrativas.md)
+* [Facultad de Ciencias de la Salud](salud.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+*Última actualización: Abril 2026*
